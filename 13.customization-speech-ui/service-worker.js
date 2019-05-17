@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BotFramework-WebChat/13.customization-speech-ui/precache-manifest.0f15882e3ce66f9ca23ccf9b8852c21d.js"
+  "/BotFramework-WebChat/13.customization-speech-ui/precache-manifest.f023935d7c45fce51e6ffd19f111bb6d.js"
 );
 
 self.addEventListener('message', (event) => {

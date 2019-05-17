@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BotFramework-WebChat/17.chat-send-history/static/css/main.c0c51a48.chunk.css",
-    "main.js": "/BotFramework-WebChat/17.chat-send-history/static/js/main.847e5431.chunk.js",
-    "main.js.map": "/BotFramework-WebChat/17.chat-send-history/static/js/main.847e5431.chunk.js.map",
+    "main.js": "/BotFramework-WebChat/17.chat-send-history/static/js/main.946a3b36.chunk.js",
+    "main.js.map": "/BotFramework-WebChat/17.chat-send-history/static/js/main.946a3b36.chunk.js.map",
     "runtime~main.js": "/BotFramework-WebChat/17.chat-send-history/static/js/runtime~main.733ba5fe.js",
     "runtime~main.js.map": "/BotFramework-WebChat/17.chat-send-history/static/js/runtime~main.733ba5fe.js.map",
-    "static/js/2.3ad78798.chunk.js": "/BotFramework-WebChat/17.chat-send-history/static/js/2.3ad78798.chunk.js",
-    "static/js/2.3ad78798.chunk.js.map": "/BotFramework-WebChat/17.chat-send-history/static/js/2.3ad78798.chunk.js.map",
+    "static/js/2.7258451c.chunk.js": "/BotFramework-WebChat/17.chat-send-history/static/js/2.7258451c.chunk.js",
+    "static/js/2.7258451c.chunk.js.map": "/BotFramework-WebChat/17.chat-send-history/static/js/2.7258451c.chunk.js.map",
     "index.html": "/BotFramework-WebChat/17.chat-send-history/index.html",
-    "precache-manifest.e7cef341ca53aecaf03683751015ce01.js": "/BotFramework-WebChat/17.chat-send-history/precache-manifest.e7cef341ca53aecaf03683751015ce01.js",
+    "precache-manifest.d2fa076f6b21c583aa30ac128e658e18.js": "/BotFramework-WebChat/17.chat-send-history/precache-manifest.d2fa076f6b21c583aa30ac128e658e18.js",
     "service-worker.js": "/BotFramework-WebChat/17.chat-send-history/service-worker.js",
     "static/css/main.c0c51a48.chunk.css.map": "/BotFramework-WebChat/17.chat-send-history/static/css/main.c0c51a48.chunk.css.map"
   }
